@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suit SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suit name="Hub Spot Regression Test Automation Suit">
+
+	<test name="Hub Spot App Test Cases">
+		<classes>
+			<class name="com.qa.hubspot.tests.LoginPageTest"></class>
+			<class name="com.qa.hubspot.tests.HomePageTest"></class>
+			<class name="com.qa.hubspot.tests.ContactsPageTest"></class>
+		</classes> 
+	</test>
+</suit>
